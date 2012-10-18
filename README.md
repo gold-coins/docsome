@@ -1,4 +1,19 @@
+# docsome
+
+## About
+
 camping + markdown = awesome documentation site
+
+## Install
+
+## Quick and Dirty
+
+    camping --port 3000 docsome.rb
+    http://localhost:3000/pages
+
+## Contribute
+
+## Extra
 
 Learn more about [Camping, a Microframework](http://camping.io/) here:
 * [Camping, Installation](http://camping.io/Installation)
