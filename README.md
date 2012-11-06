@@ -13,6 +13,8 @@ camping + markdown = awesome documentation site
 
 ## Contribute
 
+This is rough and unfinish. Feel free to contribute. :smile:
+
 ## Extra
 
 Learn more about [Camping, a Microframework](http://camping.io/) here:
