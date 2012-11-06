@@ -15,6 +15,9 @@ camping + markdown = awesome documentation site
 
 This is rough and unfinish. Feel free to contribute. :smile:
 
+- Support github flavored markdown
+- Better documentation
+
 ## Extra
 
 Learn more about [Camping, a Microframework](http://camping.io/) here:
